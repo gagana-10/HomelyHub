@@ -1,0 +1,6 @@
+$kind: http-request
+name: get all properties
+description: ""
+url: http://localhost:3000/api/v1/rent/listing
+method: GET
+order: 3627708931902751

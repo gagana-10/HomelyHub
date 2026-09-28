@@ -1,0 +1,6 @@
+$kind: http-request
+name: http://localhost:3000/api/v1/rent/listing
+description: ""
+url: http://localhost:3000/api/v1/rent/listing
+method: GET
+order: 2693851326922921
